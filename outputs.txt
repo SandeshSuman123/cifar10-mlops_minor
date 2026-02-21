@@ -1,0 +1,19 @@
+Test Accuracy: 0.79
+
+Class-wise Accuracy:
+airplane: 0.82
+auto: 0.85
+bird: 0.63
+cat: 0.57
+deer: 0.74
+dog: 0.69
+frog: 0.86
+horse: 0.80
+ship: 0.89
+truck: 0.83
+
+WandB Run:
+https://wandb.ai/sandeshsuman100-iit-jodhpur/cifar10-mlops?nw=nwusersandeshsuman100
+
+HuggingFace Model:
+https://huggingface.co/sandesh2233/cifar10-resnet18/tree/main

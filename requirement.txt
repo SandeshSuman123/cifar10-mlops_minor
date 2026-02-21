@@ -1,0 +1,8 @@
+torch
+torchvision
+datasets
+transformers
+huggingface_hub
+wandb
+scikit-learn
+matplotlib
